@@ -1,4 +1,4 @@
-# Text-generated-from-alice.txt
+# Text generative model scratch with python
 ![image](https://user-images.githubusercontent.com/64266044/215060141-b23a8a37-aa72-4dda-bc5f-a9fb3c3e5501.png)
 
 Hi. I want to introduce this repository towards enhance our nlp skill with python.
@@ -27,7 +27,8 @@ I found a text from web `alice.txt` and with this text that have generated a new
         
 ### LSTM arcitecture
 > What does LSTM ?
-> Please look at   ```
+
+> Please look at   [LSTM link](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 ![image](https://user-images.githubusercontent.com/64266044/215192932-99f6e9a2-ba8b-49f2-99f5-e0491bde0d0d.png)
 
@@ -36,10 +37,12 @@ I found a text from web `alice.txt` and with this text that have generated a new
         
 ### Alrigth,Which steps were placed?
 
-*   Firstly, I have imported related ibraries for nlp preprocessing and model.Than I have created some functions towards preproceesing steps these functions facilitated pre-procesing steps.
-after this sections.we are in prerrocesing step.
-`Preporcessing step` purpose that how  can training camputer this sentence. We should that for train model.Firstly we must label word which in text.we can do this.We should find all uniuque word from passed preprocessing steps than we should create a dictionary for encoding unique words. After all of these steps we have a text that consist of labeled words.
-After process of labeling. we creating a repesentetive tensors  thar nludes all labeled words in tex. This process a little complex for beginner stage. Firsty,I have defined a batch size and timestep.
-
-for more detail please look at codes...
+``` Firstly, I have imported related libraries for nlp preprocessing and model. 
+Then I created some functions for preprocessing steps these functions facilitated pre-processing steps.
+After this section. we are in preprocessing step.
+The Preprocessing step purpose that how can train computers with these sentences. In order to train the model, we must. Firstly we must label words in the text.
+We can do this. We should find all unique words from passed preprocessing steps then we should create a dictionary for encoding unique words.
+After all of these steps, we have a text that consists of labeled words.After the process of labeling. 
+we created representative tensors that include all labeled words in tex. This process is a little complex for the beginner stage.
+For more detail please look at the codes... ```
 
