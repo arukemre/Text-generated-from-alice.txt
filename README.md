@@ -17,7 +17,6 @@ I found a text from web `alice.txt` and with this text that have generated a new
     
     
    #### Requaried libraries
-         ```
           > pandas 
           > numpy 
           > nltk
@@ -25,10 +24,10 @@ I found a text from web `alice.txt` and with this text that have generated a new
           > torch
           > sklearn
           > collections 
-        ```
+        
 ### LSTM arcitecture
 > What does LSTM ?
-> Please look at [https://colah.github.io/posts/2015-08-Understanding-LSTMs/]
+> Please look at   ```
 
 ![image](https://user-images.githubusercontent.com/64266044/215192932-99f6e9a2-ba8b-49f2-99f5-e0491bde0d0d.png)
 
