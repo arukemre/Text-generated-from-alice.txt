@@ -24,6 +24,7 @@ I found a text from web `alice.txt` and with this text that have generated a new
           > torch
           > sklearn
           > collections 
+          > ray
         
 ### LSTM arcitecture
 > What does LSTM ?
@@ -51,7 +52,7 @@ For more detail please look at the codes...
 
 ### Model tuned with `RayTune`  with Pytorch library
 
-[RayTune](https://pytorch.org/tutorials/beginner/hyperparameter_tuning_tutorial.html)
+[RayTune link](https://pytorch.org/tutorials/beginner/hyperparameter_tuning_tutorial.html)
 
 ![image](https://user-images.githubusercontent.com/64266044/215206341-35aacf66-88ba-494f-be8d-77eb4fde578e.png)
 
