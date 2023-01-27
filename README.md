@@ -35,7 +35,7 @@ I found a text from web `alice.txt` and with this text that have generated a new
 
 
         
-### Alrigth,Which steps were placed?
+### All rigth!,Which steps were placed?
 
 ``` Firstly, I have imported related libraries for nlp preprocessing and model. 
 Then I created some functions for preprocessing steps these functions facilitated pre-processing steps.
@@ -44,5 +44,22 @@ The Preprocessing step purpose that how can train computers with these sentences
 We can do this. We should find all unique words from passed preprocessing steps then we should create a dictionary for encoding unique words.
 After all of these steps, we have a text that consists of labeled words.After the process of labeling. 
 we created representative tensors that include all labeled words in tex. This process is a little complex for the beginner stage.
-For more detail please look at the codes... ```
+For more detail please look at the codes... 
+```
+
+
+
+### Model tuned with `RayTune`  with Pytorch library
+
+[RayTune](https://pytorch.org/tutorials/beginner/hyperparameter_tuning_tutorial.html)
+
+![image](https://user-images.githubusercontent.com/64266044/215206341-35aacf66-88ba-494f-be8d-77eb4fde578e.png)
+
+
+
+
+
+
+
+
 
