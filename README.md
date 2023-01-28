@@ -45,7 +45,7 @@ The Preprocessing step purpose that how can train computers with these sentences
 We can do this. We should find all unique words from passed preprocessing steps then we should create a dictionary for encoding unique words.
 After all of these steps, we have a text that consists of labeled words.After the process of labeling. 
 we created representative tensors that include all labeled words in tex. This process is a little complex for the beginner stage.
-For more detail please look at the codes... 
+For more details please look at the codes... 
 ```
 
 
